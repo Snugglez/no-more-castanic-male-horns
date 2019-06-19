@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "No More Castanic Male Horns",
+	"category": "client",
+	"description": "Removes the horns from Castanic Male",
+	"author": "Snug",
+	"options": {
+		"guiName": "Hair: No More Castanic Male Horns",
+		"niceName": "No More Castanic Male Horns"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/tera-client-mods/master/no-more-castanic-male-horns"
+	]
+}
